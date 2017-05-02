@@ -1,2 +1,3 @@
 # hello-world
 Initial repository
+Refreshing myself on the process of github. branches, commits, etc...
